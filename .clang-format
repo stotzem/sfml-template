@@ -1,8 +1,0 @@
----
-Language: Cpp
-BasedOnStyle: LLVM
-AlignAfterOpenBracket: BlockIndent
-ColumnLimit: 100
-IndentWidth: 4
-SortIncludes: CaseInsensitive
-TabWidth: 8
